@@ -6,7 +6,7 @@ excerpt: 'This paper critically evaluates the prevailing conceptualisations in t
 date: 2027-07-01
 venue: 'Transportation Research Interdisciplinary Perspectives'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S259019822400143X'
 citation: 'Liu, Q. (2024). The dilemmas of transport equity research in non-Western contexts. Transportation Research Interdisciplinary Perspectives, 26, 101157.'
 ---
 
