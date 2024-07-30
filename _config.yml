@@ -24,11 +24,11 @@ author:
   avatar           : "ChatGPT_logo.svg.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Assistant professor Peking University"
+  location         : "Shen Zhen"
+  employer         : "Peking University"
+  URI              : "https://urban.pkusz.edu.cn/info/1013/3131.htm"
+  email            : "tsql@pku.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
