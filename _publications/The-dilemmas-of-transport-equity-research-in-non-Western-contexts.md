@@ -1,7 +1,7 @@
 ---
 title: "The dilemmas of transport equity research in non-Western contexts"
 collection: publications
-permalink: /publication/The dilemmas of transport equity research in non-Western contexts
+permalink: /publication/The-dilemmas-of-transport-equity-research-in-non-Western-contexts
 excerpt: 'This paper critically evaluates the prevailing conceptualisations in transport equity research, emphasising the inadvertent Eurocentrism inherent in many contemporary frameworks. By distinguishing between social equality and social equity, the paper underscores the need for differentiated treatments in varied contexts to truly achieve fairness.'
 date: 2024-07-01
 venue: 'Transportation Research Interdisciplinary Perspectives'
