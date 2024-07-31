@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-![Illustration of transportation](https://github.com/Ricksanchez000/Ricksanchez000/blob/master/images/transportation_bot.png){: .align-right width="200px"}
+![Illustration of transportation](https://github.com/Ricksanchez000/Ricksanchez000/blob/master/images/ttransportation_bot.png){: .align-right width="200px"}
 👨🏻‍💻 我是北京大学深圳研究生院城市规划与设计学院的助理教授
 
 🔬 我的研究兴趣主要是：
