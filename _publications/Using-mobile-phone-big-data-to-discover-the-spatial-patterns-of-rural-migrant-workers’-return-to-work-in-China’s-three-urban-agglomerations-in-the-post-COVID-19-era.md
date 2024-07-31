@@ -3,7 +3,7 @@ title: "Using mobile phone big data to discover the spatial patterns of rural mi
 collection: publications
 permalink: "/publication/Using-mobile-phone-big-data-to-discover-the-spatial-patterns-of-rural-migrant-workers’-return-to-work-in-China’s-three-urban-agglomerations-in-the-post-COVID-19-era"
 excerpt: 'Knowing how workers return to work is a key policymaking issue for economic recovery in the post-COVID-19 era. This paper uses country-wide time-series mobile phone big data (comparing monthly and annual figures), obtained between February 2019 and October 2019 and between February 2020 and October 2020, to discover the spatial patterns of rural migrant workers’ (RMWs’) return to work in China’s three urban agglomerations (UAs): the Beijing–Tianjin–Hebei Region, the Yangtze River Delta and the Pearl River Delta. Spatial patterns of RMWs’ return to work and how these patterns vary with location, city level and human attribute were investigated using the fine-scale social sensing related to post-pandemic human mobility. The results confirmed the multidimensional spatiotemporal differentiations, interaction effects between variable pairs and effects of the actual situation on the changing patterns of …'
-date: 2023-25-01
+date: 2023-05-01
 venue: 'Environment and Planning B: Urban Analytics and City Science'
 paperurl: 'https://journals.sagepub.com/doi/abs/10.1177/23998083211069375'
 citation: "Liu, K., Zhao, P., Wan, D., Hai, X., He, Z., Liu, Q., ... & Yu, L. (2023). Using mobile phone big data to discover the spatial patterns of rural migrant workers’ return to work in China’s three urban agglomerations in the post-COVID-19 era. Environment and Planning B: Urban Analytics and City Science, 50(4), 878-894."
