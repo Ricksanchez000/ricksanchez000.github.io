@@ -5,7 +5,7 @@ permalink: /publication/Unravelling-the-spatial-directionality-of-urban-mobility
 excerpt: 'As it is central to sustainable urban development, urban mobility has primarily been scrutinised for its scaling and hierarchical properties. However, traditional analyses frequently overlook spatial directionality, a critical factor in city centre congestion and suburban development. Here...'
 date: 2024-05-27
 venue: 'Nature Communications'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf](https://www.nature.com/articles/s41467-024-48909-7'
+paperurl: 'https://www.nature.com/articles/s41467-024-48909-7'
 citation: 'Zhao, P., Wang, H., Liu, Q., Yan, X. Y., & Li, J. (2024). Unravelling the spatial directionality of urban mobility. Nature Communications, 15(1), 4507.'
 ---
 
