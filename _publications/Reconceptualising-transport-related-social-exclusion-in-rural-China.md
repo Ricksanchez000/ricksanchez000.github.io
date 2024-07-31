@@ -2,7 +2,7 @@
 title: "Reconceptualising transport-related social exclusion in rural China"
 collection: publications
 permalink: /publication/Reconceptualising-transport-related-social-exclusion-in-rural-China
-excerpt:'In this paper, we propose a conceptual framework to elucidate transport-related social exclusion (TRSE) in rural China. Drawing from participant observations across 146 villages in Guangdong (2643 rural residents), we illuminate the multifaceted nature of TRSE in Chinese villages. In term of interregional transport challenges, rural residents are socially excluded due to inadequate transport infrastructure and services. In contrast, within the microcosm of intravillage transport, residents adeptly harness available transport resources to craft exclusionary strategies.'
+excerpt: 'In this paper, we propose a conceptual framework to elucidate transport-related social exclusion (TRSE) in rural China. Drawing from participant observations across 146 villages in Guangdong (2643 rural residents), we illuminate the multifaceted nature of TRSE in Chinese villages. In term of interregional transport challenges, rural residents are socially excluded due to inadequate transport infrastructure and services. In contrast, within the microcosm of intravillage transport, residents adeptly harness available transport resources to craft exclusionary strategies.'
 date: 2024-06-01
 venue: 'Journal of Transport Geography'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0966692324001388'
