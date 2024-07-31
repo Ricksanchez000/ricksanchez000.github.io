@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-![Illustration of Transportation](/images/Transportation bot.png){: .align-right width="300px"}
+![Illustration of Transportation](/images/Transportation_bot.png){: .align-right width="300px"}
 
 👨🏻‍💻 我是北京大学深圳研究生院城市规划与设计学院的助理教授
 
@@ -22,4 +22,4 @@ redirect_from:
 3. 交通文化与心理
 
 4. 新出行服务和非正式交通
-aa
+
