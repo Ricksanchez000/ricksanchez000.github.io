@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-![Illustration of Transportation](/images/image_to_text_vis.png){: .align-right width="300px"}
+![Illustration of Transportation](/images/Transportation bot.png){: .align-right width="300px"}
 
 👨🏻‍💻 我是北京大学深圳研究生院城市规划与设计学院的助理教授
 
