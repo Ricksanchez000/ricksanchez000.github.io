@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /pages/about
 title: "👋🏼 Hello there, I'm Qiyang Liu! Assistant Professor of Peking University"
 author_profile: true
 redirect_from: 
