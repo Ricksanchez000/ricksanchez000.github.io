@@ -1,7 +1,7 @@
 ---
 title: "Villagers' travel burden and the built environment in rural China: Evidence from a national level survey"
 collection: publications
-permalink: /Villagers'-travel-burden-and-the-built-environment-in-rural-China:-Evidence-from-a-national-level-survey
+permalink: "/Villagers'-travel-burden-and-the-built-environment-in-rural-China:-Evidence-from-a-national-level-survey"
 excerpt: 'Travel burden on rural residents is an important theme in transport geography. However,..'
 date: 2023-12-01
 venue: 'Journal of Transport Geography'
