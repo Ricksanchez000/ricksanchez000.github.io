@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "科研项目与基金"
 author_profile: true
 redirect_from: 
   - /md/
@@ -9,7 +9,7 @@ redirect_from:
 
 ## Locations of key files/directories
 
-left for futhur editing
+## left for futhur editing
 
 
 科研项目：
