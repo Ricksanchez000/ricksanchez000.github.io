@@ -9,6 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+
+教育及工作经历
+======
+
+* 2020.11-2023.07，北京大学深圳研究生院，博士后
+
+* 2015.09-2019.10，利兹大学，交通研究(交通政策)，PhD
+
+* 2014.08-2015.08, 布莱京理工学院，可持续发展与领导力，MSc
+
+* 2008.09-2012.06, 东南大学，道路桥梁与渡河工程，学士
+
+
+
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
