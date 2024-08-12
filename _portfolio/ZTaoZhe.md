@@ -4,7 +4,7 @@ excerpt: "科研助理<br/><img src='/images/者韬resize2.png'>"
 collection: portfolio
 ---
 
-![Tao](/images/者韬resize2.png)
+![Tao](/images/者韬.heic)
 
 本科：华东政法大学金融工程
 硕士: 格拉斯哥大学应用统计
