@@ -1,6 +1,6 @@
 ---
 title: "江婉菊"
-excerpt: "2024级硕士生 <br/><img src='/images/孙乐瑶.jpg'>"
+excerpt: "2024级硕士生 <br/><img src='/images/江婉菊.jpg'>"
 collection: portfolio
 ---
 
