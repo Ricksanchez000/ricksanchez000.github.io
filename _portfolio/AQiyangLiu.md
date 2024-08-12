@@ -13,5 +13,3 @@ collection: PI
 讨厌这样的学生：言过其实夸夸其谈、老吹牛逼、太功利、物欲太强、喜欢在办公室坐牢
 
 
-
-#<font color="red">This text is red!</font>
