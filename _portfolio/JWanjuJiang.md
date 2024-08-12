@@ -4,12 +4,9 @@ excerpt: "2024级硕士生 <br/><img src='/images/江婉菊resize2.jpg'>"
 collection: portfolio
 ---
 
-## People
 
-We are a team of researchers excited about building algorithms that perceive and understand our world.
+![Wanju JIANG](/images/江婉菊.jpg)
 
-### 江婉菊
-![Vincent Sitzmann](/images/江婉菊.jpg)
 江婉菊
 本科: 浙江大学 人力资源管理
 方向:城市 交通 社会公平
