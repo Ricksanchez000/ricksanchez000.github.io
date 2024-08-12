@@ -1,0 +1,18 @@
+---
+title: "江婉菊"
+excerpt: "2024级硕士生 <br/><img src='/images/孙乐瑶.jpg'>"
+collection: portfolio
+---
+
+## People
+
+We are a team of researchers excited about building algorithms that perceive and understand our world.
+
+### 江婉菊
+![Vincent Sitzmann](/images/江婉菊.jpg)
+江婉菊
+本科: 浙江大学 人力资源管理
+方向:城市 交通 社会公平
+不端庄的自我介绍: ISFP，喜欢的东西很多，游泳、滑雪、唱歌(但都人菜瘾大)。喜欢看看乒乓球和游泳比赛，喜欢TS(是新加坡见过霉霉的人了嘻嘻)，喜欢看话剧戏剧音乐剧，喜欢睡懒觉(这是可以说的吗？)
+
+端庄的自我介绍:没有成果有啥可介绍的 😭
