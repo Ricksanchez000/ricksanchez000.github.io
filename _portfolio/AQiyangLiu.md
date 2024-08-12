@@ -1,6 +1,6 @@
 ---
 title: "刘启旸"
-excerpt: "助理教授 <br/><img src='/images/刘启旸resize2.jpg'>"
+excerpt: "北大助理教授/课题组导师 <br/><img src='/images/刘启旸resize2.jpg'>"
 collection: PI
 ---
 
@@ -14,4 +14,4 @@ collection: PI
 
 
 
-<font color="red">This text is red!</font>
+#<font color="red">This text is red!</font>
