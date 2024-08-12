@@ -1,6 +1,6 @@
 ---
 title: "刘启旸"
-excerpt: "助理教授 <br/><img src='/images/刘启旸.jpg'>"
+excerpt: "助理教授 <br/><img src='/images/刘启旸resize2.jpg'>"
 collection: PI
 ---
 
