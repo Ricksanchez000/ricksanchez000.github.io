@@ -1,6 +1,6 @@
 ---
 title: "刘嘉航"
-excerpt: "2024级博士生 <br/><img src='/images/刘嘉航.jpg'>"
+excerpt: "2024级博士生 <br/><img src='/images/刘嘉航resize2.jpg'>"
 collection: portfolio
 ---
 
@@ -9,7 +9,7 @@ collection: portfolio
 We are a team of researchers excited about building algorithms that perceive and understand our world.
 
 ### 刘嘉航
-![Vincent Sitzmann](/images/刘嘉航.jpg)
+![Vincent Sitzmann](/images/刘嘉航resize2.jpg)
 刘嘉航：
 天秤座INFJ、情绪稳定专家、篮球摇滚业余爱好者、非常规选择困难症选手、间歇性懒惰勤奋分裂对抗者等
 
