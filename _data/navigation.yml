@@ -10,7 +10,7 @@ main:
     url: /teaching/    
     
   - title: "研究组|Group"
-    url: /Research/
+    url: /_Research/
         
   - title: "信息|Blog Post"
     url: /year-archive/
