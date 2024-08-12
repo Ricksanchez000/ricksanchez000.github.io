@@ -1,6 +1,6 @@
 ---
 title: "孙乐瑶"
-excerpt: "2024级硕士生 <br/><img src='/images/孙乐瑶.jpg style='width:500px;height:300px;'>"
+excerpt: "2024级硕士生 <br/><img src='/images/孙乐瑶.jpg'>"
 collection: portfolio
 ---
 
