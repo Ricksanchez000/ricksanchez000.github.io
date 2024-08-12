@@ -1,6 +1,6 @@
 ---
 title: "刘嘉航"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "2024级博士生 1<br/><img src='/images/刘嘉航.jpg'>"
 collection: portfolio
 ---
 
