@@ -1,6 +1,6 @@
 ---
 title: "唐于顺"
-excerpt: "2024级硕士生 <br/><img src='/images/唐于顺.jpg'>"
+excerpt: "2024级硕士生 <br/><img src='/images/唐于顺resize2.jpg'>"
 collection: portfolio
 ---
 
