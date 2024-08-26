@@ -13,12 +13,19 @@ author_profile: true
 ## 二、岗位要求与职责
 **1. 博士后：**
        方向：乡村交通电气化
+       
 a. 为人正直，对研究有热情，工作踏实、认真；不夸夸其谈、言过其实；
+
 b. 具有交通工程、交通经济、交通行为、公共政策、社会学、心理学等相关博士学位；
+
 c. 在以下期刊发表1篇或以上高质量论文（如TR系列，Transport Policy，Journal of Transport Geography，Transportation，Research in Transportation Economics等）；
+
 d. 熟练使用Python/R/stata；
+
 e. 熟悉SP/RP调查的数据收集和分析，心理量表的收集和分析；
+
 f. 符合北京大学博士后的招收条件，进站后须全职从事博士后研究工作。
+
 **2. 科研助理：**
        方向：城市和交通研究
 a. 为人正直，对研究有热情，工作踏实、认真；不夸夸其谈、言过其实；
