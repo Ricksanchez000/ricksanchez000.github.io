@@ -12,6 +12,7 @@ collection: PI
 喜欢这样的学生：坦诚、好奇心强、想法不受拘束、有批判精神、想象力丰富、比较有主见、比较理想主义、爱玩、旅行经历丰富、文史知识较好、英文好（会二外更好）
 讨厌这样的学生：言过其实夸夸其谈、老吹牛逼、太功利、物欲太强、喜欢在办公室坐牢
 
+
 **Publications**
 
 1.	Liu, Q. (2022). Public Acceptability of Congestion Charging in China. Palgrave Macmillan, Singapore 
