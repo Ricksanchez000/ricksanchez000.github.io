@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-教育及工作经历
+Education and working experiment
 ======
 
 * 2020.11-2023.07，北京大学深圳研究生院，博士后
@@ -22,39 +22,6 @@ redirect_from:
 * 2008.09-2012.06, 东南大学，道路桥梁与渡河工程，学士
 
 
-
-
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -76,4 +43,16 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+ICTH 2021 青年学者最佳论文奖
+
+International Journal of Sustainable Transportation 2020高被引论文奖
+
+ESI高被引论文2篇
+
+联合国秘书长在联合国大会全体会议的报告引用：Extreme poverty and human rights: note / by the Secretary-General（2020年10月7日）
+
+欧盟白皮书引用：Annual Sustainable Growth Strategy 2020，Strong Social Europe for Just Transitions
+
+World Conference on Transport Research Society (WCTRS) 治理和决策委员会（G1）和文化和社会问题委员会（G4）委员
+
+Transportation Research Board (TRB) 交通公平常务委员会（AME10）和发展中国家常务委员会（AME40）会员
