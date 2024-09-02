@@ -7,12 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
-
-## left for futhur editing
 
 
-科研项目：
+## 科研项目：
 
 2020.12-2022.12，中国博士后科学基金会，博士后国际交流计划引进项目，东亚国家交通公平问题初探，结题，主持
 
@@ -24,7 +21,7 @@ redirect_from:
 
 
 
-奖励和社会服务：
+## 奖励和社会服务：
 
 ICTH 2021 青年学者最佳论文奖
 
