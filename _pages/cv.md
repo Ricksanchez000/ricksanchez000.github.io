@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
+
+
 教育和工作经历
 ======
 
@@ -56,19 +58,4 @@ redirect_from:
 29.	Ji, Y., Liu, Y., **Liu, Q.**, He, B., Cao, Y. (2018). How Household Roles Influence Individuals’ Travel Mode Choice under Intra-household Interactions?. KSCE Journal of Civil Engineering. 22(11), 4635-4644 
 30.	Liu, Y., Ji, Y., **Liu, Q.**, He, M., Ma, X. (2017). Investigating Electric Bicycles as a Travel Mode Choice for Escorting Children to School: A Case Study in Kunming, China. Transportation Research Record. 2634(1), 8-16.
 
-  
-服务和领导
-======
-ICTH 2021 青年学者最佳论文奖
 
-International Journal of Sustainable Transportation 2020高被引论文奖
-
-ESI高被引论文2篇
-
-联合国秘书长在联合国大会全体会议的报告引用：Extreme poverty and human rights: note / by the Secretary-General（2020年10月7日）
-
-欧盟白皮书引用：Annual Sustainable Growth Strategy 2020，Strong Social Europe for Just Transitions
-
-World Conference on Transport Research Society (WCTRS) 治理和决策委员会（G1）和文化和社会问题委员会（G4）委员
-
-Transportation Research Board (TRB) 交通公平常务委员会（AME10）和发展中国家常务委员会（AME40）会员
