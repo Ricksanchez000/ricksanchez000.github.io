@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-# 教育和工作经历|Education and Working Experience
+## 教育和工作经历| Education and Working Experience
 
 
 * 2020.11-2023.07，北京大学深圳研究生院，博士后
@@ -24,7 +24,7 @@ redirect_from:
 * 2008.09-2012.06, 东南大学，道路桥梁与渡河工程，学士
 
 
-# 代表性论著|Publications
+## 代表性论著| Publications
 
 
 1.	**Liu, Q.** (2022). Public Acceptability of Congestion Charging in China. Palgrave Macmillan, Singapore 
