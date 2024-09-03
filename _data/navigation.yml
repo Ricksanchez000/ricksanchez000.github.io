@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "研究|Publications"
-    url: /publications/
+  #- title: "研究|Publications"
+  #  url: /publications/
 
   #- title: "Talks"
   #  url: /talks/    
@@ -15,7 +15,7 @@ main:
   - title: "信息|Blog Post"
     url: /year-archive/
     
-  - title: "简历|CV"
+  - title: "研究|Publications"
     url: /cv/
     
   - title: "项目|Founding"
