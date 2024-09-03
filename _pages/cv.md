@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publication"
+title: "简介"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Education and working experiment
+教育和工作经历
 ======
 
 * 2020.11-2023.07，北京大学深圳研究生院，博士后
@@ -22,7 +22,7 @@ Education and working experiment
 * 2008.09-2012.06, 东南大学，道路桥梁与渡河工程，学士
 
 
-Publications
+文章发表
 ======
 
 1.	**Liu, Q.** (2022). Public Acceptability of Congestion Charging in China. Palgrave Macmillan, Singapore 
@@ -57,7 +57,7 @@ Publications
 30.	Liu, Y., Ji, Y., **Liu, Q.**, He, M., Ma, X. (2017). Investigating Electric Bicycles as a Travel Mode Choice for Escorting Children to School: A Case Study in Kunming, China. Transportation Research Record. 2634(1), 8-16.
 
   
-Service and leadership
+服务和领导
 ======
 ICTH 2021 青年学者最佳论文奖
 
