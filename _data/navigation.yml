@@ -5,6 +5,8 @@ main:
 
   #- title: "Talks"
   #  url: /talks/    
+  - title: "研究|Publications"
+    url: /cv/
 
   - title: "课程|Teaching"
     url: /teaching/    
@@ -14,9 +16,6 @@ main:
         
   - title: "信息|Blog Post"
     url: /year-archive/
-    
-  - title: "研究|Publications"
-    url: /cv/
     
   - title: "项目|Founding"
     url: /markdown/
