@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Publication"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -23,12 +23,7 @@ Education and working experiment
 
 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
   
 Service and leadership
 ======
