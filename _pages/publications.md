@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "先空着后面可以用于图文具体介绍单个研究项目"
 permalink: /publications/
 author_profile: true
 ---
