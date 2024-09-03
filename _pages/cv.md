@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-## 教育和工作经历| Education and Working Experience
+## 教育和工作经历| Education, Work Experience
 
 
 * 2020.11-2023.07，北京大学深圳研究生院，博士后
