@@ -22,11 +22,11 @@ repository               : "Ricksanchez000/ricksanchez000.github.io"
 author:
   # Biographic information
   avatar           : "Qiyang Liu Profile pic.png"
-  name             : "Qiyang Liu"
+  name             : "刘启旸"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant professor Peking University"
-  location         : "Shen Zhen"
-  employer         : "Peking University"
+  bio              : "北京大学助理教授"
+  location         : "深圳"
+  employer         : "北京大学"
   URI              : "https://urban.pkusz.edu.cn/info/1013/3131.htm"
   email            : "tsql@pku.edu.cn" 
 
