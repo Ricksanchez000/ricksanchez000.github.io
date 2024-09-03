@@ -12,8 +12,8 @@ redirect_from:
 
 
 
-教育和工作经历
-======
+# 教育和工作经历
+
 
 * 2020.11-2023.07，北京大学深圳研究生院，博士后
 
@@ -24,8 +24,8 @@ redirect_from:
 * 2008.09-2012.06, 东南大学，道路桥梁与渡河工程，学士
 
 
-文章发表
-======
+# 文章发表
+
 
 1.	**Liu, Q.** (2022). Public Acceptability of Congestion Charging in China. Palgrave Macmillan, Singapore 
 2.	**Liu, Q.** (2024). The dilemmas of transport equity research in non-Western contexts. Transportation Research Interdisciplinary Perspectives, 26, 101157.
