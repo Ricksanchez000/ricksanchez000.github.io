@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "科研项目与基金"
+title: "Funding"
 author_profile: true
 redirect_from: 
   - /md/
