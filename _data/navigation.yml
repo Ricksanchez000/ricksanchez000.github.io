@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "课题介绍|xxx"
-    url: /publications/
+  #- title: "课题介绍|xxx"
+  #  url: /publications/
 
   #- title: "Talks"
   #  url: /talks/    
