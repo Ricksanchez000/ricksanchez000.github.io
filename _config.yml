@@ -12,7 +12,7 @@ title                    : "刘启旸"
 title_separator          : "-"
 name                     : &name "刘启旸"
 description              : &description "personal description"
-url                      : https://ricksanchez000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://qiyangliu.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ricksanchez000/ricksanchez000.github.io"
 
