@@ -17,19 +17,19 @@ redirect_from:
 
 1. 交通公平与交通相关社会排斥
    
-(Transportation equity and transportation-related social exclusion)
+   (Transportation equity and transportation-related social exclusion)
 
 2. 交通治理与政策制定
 
-(Transportation governance and policy-making)
+   (Transportation governance and policy-making)
 
 3. 交通文化与心理
 
-(Transportation culture and psychology)   
+   (Transportation culture and psychology)   
 
 4. 新出行服务和非正式交通
 
-(New mobility services and informal transportation)
+   (New mobility services and informal transportation)
    
 
 课题组招收优秀的硕士生和博士后，感兴趣的同学欢迎联系进一步探讨，详细信息请查看招聘栏相关信息。
