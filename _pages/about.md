@@ -13,7 +13,7 @@ redirect_from:
 👨🏻‍💻 我是北京大学深圳研究生院城市规划与设计学院的助理教授
 
 
-🔬 我的研究兴趣主要是(Research Interest)：
+🔬 我的研究兴趣主要是(Research Interests)：
 
  **1. 交通公平与交通相关社会排斥**
    
