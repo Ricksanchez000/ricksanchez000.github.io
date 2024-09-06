@@ -13,7 +13,7 @@ redirect_from:
 👨🏻‍💻 我是北京大学深圳研究生院城市规划与设计学院的助理教授
 
 
-🔬 我的研究兴趣主要是(Research Interests)：
+### 🔬 我的研究兴趣主要是(Research Interests)：
 
  **1. 交通公平与交通相关社会排斥**
    
@@ -32,7 +32,7 @@ redirect_from:
    (New mobility services and informal transportation)
    
 
-课题组招收优秀的硕士生和博士后，感兴趣的同学欢迎联系进一步探讨，详细信息请查看招聘栏相关信息。
+### 课题组招收优秀的硕士生和博士后，感兴趣的同学欢迎联系进一步探讨，详细信息请查看招聘栏相关信息。
 
 /To learn more about opportunities for postdoctoral researchers, research assistants, and graduate students, please refer to the Recruitment Section.
 
