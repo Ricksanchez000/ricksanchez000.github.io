@@ -2,11 +2,12 @@
 main:
   #- title: "课题介绍|xxx"
   #  url: /publications/
-
-  #- title: "Talks"
-  #  url: /talks/    
+  
   - title: "研究|Publications"
     url: /cv/
+
+  - title: "政策引用|Policy Citaions"
+    url: /talks/ 
 
   - title: "课程|Teaching"
     url: /teaching/    
