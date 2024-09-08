@@ -3,25 +3,25 @@ main:
   #- title: "课题介绍|xxx"
   #  url: /publications/
   
-  - title: "研究|Publications"
+  - title: "Publications"
     url: /cv/
 
-  - title: "政策引用|Policy Citaions"
+  - title: "Policy Citaions"
     url: /talks/ 
 
-  - title: "课程|Teaching"
+  - title: "Teaching"
     url: /teaching/    
     
-  - title: "成员|People"
+  - title: "People"
     url: /portfolio/
         
-  - title: "信息|Blog Post"
+  - title: "Blog Post"
     url: /year-archive/
     
-  - title: "项目|Funding"
+  - title: "Funding"
     url: /markdown/
     
-  - title: "招聘|Recruitment"
+  - title: "Recruitment"
     url: /recruitment/
 
   
