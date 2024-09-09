@@ -8,6 +8,5 @@ date: 2020-11-25
 #location: "Berkeley CA, USA"
 ---
 
-[More information here](http://exampleurl.com)
+![Teori!](/images/Policy-Profile_2.jpg "Tillgänglighet – teori och praktik")
 
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
