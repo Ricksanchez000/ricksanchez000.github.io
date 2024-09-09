@@ -1,11 +1,11 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Reconstruire en mieux : Un appel au courage / Yvonne Bartmann et Salome Lienert."
 collection: talks
 type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+permalink: /talks/2020-11-25-Reconstruire-en-mieux
+#venue: "UC-Berkeley Institute for Testing Science"
+date: 2020-11-25
+#location: "Berkeley CA, USA"
 ---
 
 [More information here](http://exampleurl.com)
