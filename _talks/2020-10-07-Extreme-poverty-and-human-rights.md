@@ -8,6 +8,5 @@ date: 2020-10-07
 #location: "London, UK"
 ---
 
-[More information here](http://example2.com)
+![Teori!](/images/Policy-Profile_3.jpg "Extreme poverty and human rights : note / by the Secretary-General")
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
