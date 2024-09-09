@@ -1,11 +1,11 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "Extreme poverty and human rights : note / by the Secretary-General"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+permalink: /talks/2020-10-07-Extreme-poverty-and-human-rights
+#venue: "London School of Testing"
+date: 2020-10-07
+#location: "London, UK"
 ---
 
 [More information here](http://example2.com)
