@@ -10,5 +10,5 @@ date: 2024-03-24
 
 
 
-what about text?
+
 ![Teori!](/images/Policy-Profile_1.jpg "Tillgänglighet – teori och praktik")
