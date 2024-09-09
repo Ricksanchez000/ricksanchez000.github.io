@@ -11,4 +11,4 @@ date: 2024-03-24
 
 
 what about text?
-![Teori!](/assets/images/Policy-Profile_1.jpg "Tillgänglighet – teori och praktik")
+![Teori!](/images/Policy-Profile_1.jpg "Tillgänglighet – teori och praktik")
