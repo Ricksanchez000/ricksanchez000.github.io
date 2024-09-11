@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-# 科研项目：
+## 科研项目：
 
 
 **2024-07-19  面向社会公正的深圳智慧交通治理策略研究，在研**
@@ -38,10 +38,10 @@ redirect_from:
 以及其他参与，主持并结题的项目等。
 
 
+---
 
 
-
-# Scientific research projects
+## Scientific research projects
 
 *July 19, 2024 - Research on Shenzhen's Smart Transportation Governance Strategies Aimed at Social Justice, Ongoing. Funds-180,000 CNY.*
 
