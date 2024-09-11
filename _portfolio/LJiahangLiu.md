@@ -22,6 +22,7 @@ ljh171013@163.com
 2017.09—2021.06，山东师范大学，学士
 
 发表论文：
+
 Liu, J., Yin, C., & Sun, B. (2024). Associations between neighborhood environments and health status among the elderly in China: Exploring the mediation effects of physical activity. Journal of Transport & Health. 35, 101757.
 
 Yin, C., Liu, J., Dai. S., & Sun, B. (2024). Mixed land use has opposite associations with subjective well-being through social capital: Spatial heterogeneity in residential and workplace neighborhoods. Travel Behaviour and Society, 35, 100724.
