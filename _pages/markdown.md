@@ -8,32 +8,39 @@ redirect_from:
 ---
 
 
-
 ## 科研项目：
 
 
-2024-07-19  面向社会公正的深圳智慧交通治理策略研究，在研
+### 2024-07-19  面向社会公正的深圳智慧交通治理策略研究，在研
 
-2024-01-01  基于大数据-厚数据结合的交通公平研究:以广东省为例，在研
- 
-2023-08-24  港澳大湾区海陆通道发展对社会经济的影响研究, 在研
+资助方：深圳市社会科学联合会
+
+金额：18万元
+
+
+### 2024-01-01  基于大数据-厚数据结合的交通公平研究:以广东省为例，在研
+
+资助方：广东省基础与应用基础研究基金委员会
+
+金额：15万元
+
+### 2023-08-24  港澳大湾区海陆通道发展对社会经济的影响研究, 在研
+
+资助方：国家自然科学基金委员会
+
+金额：30万元
+
 
 以及其他参与，主持并结题的项目等。
 
 
+## Funding
 
-## 奖励和社会服务：
+July 19, 2024 - Research on Shenzhen's Smart Transportation Governance Strategies Aimed at Social Justice, Ongoing. Funds-180,000 CNY.
 
-ICTH 2021 青年学者最佳论文奖
+January 1, 2024 - Research on Transportation Equity Based on the Combination of Big Data and Thick Data: A Case Study of Guangdong Province, Ongoing. Funds-150,000 CNY.
 
-International Journal of Sustainable Transportation 2020高被引论文奖
+August 24, 2023 - Research on the Socioeconomic Impact of the Development of Sea-Land Channels in the Hong Kong-Macao Greater Bay Area, Ongoing. Funds-300,000 CNY.
 
-ESI高被引论文2篇
+as well as other projects participated in, led, and completed.
 
-联合国秘书长在联合国大会全体会议的报告引用：Extreme poverty and human rights: note / by the Secretary-General（2020年10月7日）
-
-欧盟白皮书引用：Annual Sustainable Growth Strategy 2020，Strong Social Europe for Just Transitions
-
-World Conference on Transport Research Society (WCTRS) 治理和决策委员会（G1）和文化和社会问题委员会（G4）委员
-
-Transportation Research Board (TRB) 交通公平常务委员会（AME10）和发展中国家常务委员会（AME40）会员
