@@ -40,7 +40,7 @@ redirect_from:
 以及其他参与，主持并结题的项目等。
 
 
-## Funding
+## Scientific research projects
 
 July 19, 2024 - Research on Shenzhen's Smart Transportation Governance Strategies Aimed at Social Justice, Ongoing. Funds-180,000 CNY.
 
