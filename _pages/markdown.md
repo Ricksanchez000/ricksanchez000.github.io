@@ -38,32 +38,7 @@ redirect_from:
 以及其他参与，主持并结题的项目等。
 
 
----
-## Ongoing Projects
 
-### 1. Research on Shenzhen's Smart Transportation Governance Strategies Aimed at Social Justice
-- **Date**: 2024-07-19
-- **Funding Organization**: Shenzhen Federation of Social Sciences
-- **Project Type**: Shenzhen Philosophy and Social Science Project (General Topic)
-- **Funding Amount**: **180,000 CNY**
-
----
-
-### 2. Research on Transportation Equity Based on the Combination of Big Data and Thick Data: A Case Study of Guangdong Province
-- **Date**: 2024-01-01
-- **Funding Organization**: Guangdong Basic and Applied Basic Research Foundation
-- **Project Type**: Guangdong Natural Science Foundation (General Project)
-- **Funding Amount**: **150,000 CNY**
-
----
-
-### 3. Research on the Socioeconomic Impact of the Development of Sea-Land Channels in the Hong Kong-Macao Greater Bay Area
-- **Date**: 2023-08-24
-- **Funding Organization**: National Natural Science Foundation of China
-- **Project Type**: National Natural Science Foundation - Youth Science Fund Project
-- **Funding Amount**: **300,000 CNY**
-
----
 
 
 ## Scientific research projects
