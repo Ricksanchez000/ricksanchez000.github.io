@@ -7,6 +7,7 @@ collection: portfolio
 
 ![Wanju JIANG](/images/江婉菊.jpg)
 
+**江婉菊**
 
 **本科:** 浙江大学 人力资源管理
 
