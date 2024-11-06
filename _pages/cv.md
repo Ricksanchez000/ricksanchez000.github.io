@@ -14,10 +14,10 @@ redirect_from:
 ## 代表性论著| Publications
 
 
-1.  Li, J., Zhao, P., Zhang, M., Deng, Y., Liu, Q., Cui, Y., ... & Tan, W. (2025). Exploring collective activity space and its spatial heterogeneity using mobile phone signaling Data: A case of Shenzhen, China. Travel Behaviour and Society, 38, 100920.
-2.  Zhao, H., Zhao, P., Liu, Q., Zhang, M., & Jiang, S. (2024). Unraveling urban dynamics: Scaling laws of human mobility across the cityscape divide. Fundamental Research.
-3.  Liu, Q. (2024). Mercy for growing cities in China. Nature Cities, 1(11), 800-800.
-4.	Liu, Q. (2022). Public Acceptability of Congestion Charging in China. Palgrave Macmillan, Singapore 
+1.  Liu, Q. (2022). Public Acceptability of Congestion Charging in China. Palgrave Macmillan, Singapore
+2.  Li, J., Zhao, P., Zhang, M., Deng, Y., Liu, Q., Cui, Y., ... & Tan, W. (2025). Exploring collective activity space and its spatial heterogeneity using mobile phone signaling Data: A case of Shenzhen, China. Travel Behaviour and Society, 38, 100920.
+3.  Zhao, H., Zhao, P., Liu, Q., Zhang, M., & Jiang, S. (2024). Unraveling urban dynamics: Scaling laws of human mobility across the cityscape divide. Fundamental Research.
+4.  Liu, Q. (2024). Mercy for growing cities in China. Nature Cities, 1(11), 800-800. 
 5.	Liu, Q. (2024). The dilemmas of transport equity research in non-Western contexts. Transportation Research Interdisciplinary Perspectives, 26, 101157.
 6.	Liu, Q., Ma, T., & Liu, Z. (2024). Reconceptualising transport-related social exclusion in rural China. Journal of Transport Geography, 118, 103929.
 7.	Zhao, P., Wang, H., Liu, Q., Yan, X. Y., & Li, J. (2024). Unravelling the spatial directionality of urban mobility. Nature Communications, 15(1), 4507.
