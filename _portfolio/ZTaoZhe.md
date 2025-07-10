@@ -10,10 +10,11 @@ collection: portfolio
 
 ![Tao](/images/tao.jpg){: width="300px" height="300px" }
 
+研究兴趣主要在于因果数据挖掘、强化学习和大语言模型Agent应用 ~ 
 
 **教育经历：**
 
-本科：华东政法大学金融工程
+本科: 华东政法大学金融工程
 
 硕士: 格拉斯哥大学应用统计
 
