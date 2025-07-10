@@ -3,7 +3,7 @@ title: "周晓雅"
 #excerpt: "2024级硕士生 <br/><img src='/images/唐于顺resize2.jpg'>"
 role:   "2025级硕士生"              # ① 卡片副标题——用自定义变量 role
 image:  "/images/xiaoyazhou2.jpg" # ② 头像路径——模板会渲染成小圆图
-excerpt: "研究方向：交通公平中的性别不平等、交通文化与性别刻板印象"  # ③ 简短文字摘要
+excerpt: "研究方向：城市空间 交通行为 社会公平"  # ③ 简短文字摘要
 group:   "Postgraduate Student" 
 collection: portfolio
 ---
