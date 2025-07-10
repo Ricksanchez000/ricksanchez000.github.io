@@ -26,14 +26,14 @@ author_profile: true
 {% comment %}
   先定义好要分的组（顺序即显示顺序）
 {% endcomment %}
-{% assign groups = "Research Assistant|PhD|Postgraduate Student" | split: "|" %}
+{% assign groups = "QiyangLiu|Postdoc|PhD|Postgraduate Student" |Research Assistant| split: "|" %}
 
 {% for g in groups %}
   {%- assign members = site.portfolio | where: "group", g -%}
   {% if members and members.size > 0 %}
     <h2 class="member-heading">
       {{ g }}
-      {% if g == "Qiyang Liu"                 %}| 刘启旸{% endif %}
+      {% if g == "QiyangLiu"                 %}| 刘启旸{% endif %}
       {% if g == "Postdoc"                 %}| 博士后{% endif %}
       {% if g == "PhD"                 %}| 博士研究生{% endif %}
       {% if g == "Postgraduate Student"%}| 硕士研究生{% endif %}
