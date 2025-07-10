@@ -14,8 +14,34 @@ author_profile: true
 {% endcomment %}
 
 
+{% comment %}
 <div class="member-grid">
 {% for post in site.portfolio %}
    {% include archive-single-member.html %}
 {% endfor %}
 </div>
++{% endcomment %}
+
+
+{% comment %}
+  先定义好要分的组（顺序即显示顺序）
+{% endcomment %}
+{% assign groups = "Research Assistant|PhD|Postgraduate Student" | split: "|" %}
+
+{% for g in groups %}
+  {%- assign members = site.portfolio | where: "group", g -%}
+  {% if members and members.size > 0 %}
+    <h2 class="member-heading">
+      {{ g }}
+      {% if g == "Research Assistant" %}| 科研助理{% endif %}
+      {% if g == "PhD"                 %}| 博士研究生{% endif %}
+      {% if g == "Postgraduate Student"%}| 硕士研究生{% endif %}
+    </h2>
+
+    <div class="member-grid">
+      {% for post in members %}
+        {% include archive-single-member.html post=post %}
+      {% endfor %}
+    </div>
+  {% endif %}
+{% endfor %}
