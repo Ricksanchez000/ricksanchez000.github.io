@@ -1,102 +1,35 @@
-/* ========== 我的卡片样式 ========== */
-.member-card       { max-width:960px; margin:2rem auto; padding:2rem 2.5rem;
-                     background:#2b2f3a; border-radius:1.25rem; display:flex;
-                     gap:2rem; align-items:center; }
-.member-card__avatar { width:140px; height:140px; border-radius:50%;
-                       object-fit:cover; flex-shrink:0; }
-.member-card__name { font-size:1.6rem; font-weight:700; margin:0 0 .4rem 0;
-                     color:#fff; }
-/* ... 其余样式 ... */
-@media (max-width:640px){
-  .member-card{flex-direction:column;text-align:center}
-  .member-card__avatar{margin-bottom:1rem}
-}
-
-/* === 网格容器：自适应列数 === */
-
+/* ========= 网格：固定两列，窄屏自动一列 ========= */
 .member-grid {
-  max-width: 1200px;           /* 整体宽度 */
-  margin: 0 auto;              /* 居中 */
+  max-width: 1200px;
+  margin: 0 auto;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.8rem;                 /* 卡片间距 */
+  gap: 1.8rem;
+  grid-template-columns: repeat(2, 1fr);
 }
-
-/* ===== 网格容器：默认两列 ===== */
-.member-grid {
-  max-width: 1200px;          /* 整体最大宽度，可自行调整 */
-  margin: 0 auto;             /* 居中 */
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);  /* ← 始终两列 */
-  gap: 1.8rem;                /* 卡片间距 */
-}
-
-/* ===== 移动端（< 600px）自动降为 1 列 ===== */
 @media (max-width: 600px) {
-  .member-grid {
-    grid-template-columns: 1fr;
-  }
+  .member-grid { grid-template-columns: 1fr; }
 }
 
-/* === 卡片本身改成竖排 === */
-/*  ---- 先整段注释掉 
-
-.member-card {
-  background: #2b2f3a;
-  border-radius: 1.25rem;
-  padding: 1.8rem 1.6rem;
-  text-align: center;          
-  display: flex;
-  flex-direction: column;      
-  align-items: center;
-}
----- */
-
-
-/* 头像缩小成小方块 */
-.member-card__avatar {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  object-fit: cover;
-  margin-bottom: 1rem;
-}
-
-/* 标题、角色微调 */
-.member-card__name { font-size: 1.25rem; font-weight: 700; margin: 0.4rem 0; color:#fff; }
-.member-card__role { font-weight: 600; margin: .2rem 0 .8rem; }
-
-/* ===== 小圆头像：120×120 ===== */
-.member-card__avatar {
-  width: 120px;          /* 头像直径 */
-  height: 120px;
-  border-radius: 50%;    /* 变圆 */
-  object-fit: cover;     /* 超出部分裁掉，居中填充 */
-  margin-bottom: 1rem;   /* 和下方文字留点间距 */
-}
-
-/* ===== 卡片：左图右文 ===== */
+/* ========= 卡片：左图右文 ========= */
 .member-card {
   background: #2b2f3a;
   border-radius: 1.25rem;
   padding: 1.8rem 2rem;
   display: flex;
-  align-items: center;           /* 垂直居中对齐 */
-  gap: 1.6rem;                   /* 图文间距 */
+  align-items: center;   /* 头像与文字垂直居中 */
+  gap: 1.6rem;           /* 图文间距 */
 }
 
-/* 小圆头像 */
+/* ========= 小圆头像 120×120 ========= */
 .member-card__avatar {
   width: 120px;
   height: 120px;
   border-radius: 50%;
-  object-fit: cover;
-  flex-shrink: 0;                /* 防止被压缩 */
+  object-fit: cover;     /* 裁剪填充 */
+  flex-shrink: 0;        /* 避免被压扁 */
 }
 
-/* 文字块靠左对齐 */
-.member-card__info { text-align: left; }
-
-/* 标题 / 副标题微调 */
-.member-card__name { font-size: 1.4rem; font-weight: 700; margin: 0; color: #fff; }
-.member-card__role { font-weight: 600; margin: .25rem 0 .75rem; }
+/* ========= 文本块 ========= */
+.member-card__info  { text-align: left; }
+.member-card__name  { font-size: 1.4rem; font-weight: 700; margin: 0;   color: #fff; }
+.member-card__role  { font-weight: 600; margin: .25rem 0 .75rem; }
