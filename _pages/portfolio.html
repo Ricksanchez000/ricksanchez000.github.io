@@ -33,9 +33,10 @@ author_profile: true
   {% if members and members.size > 0 %}
     <h2 class="member-heading">
       {{ g }}
-      {% if g == "Research Assistant" %}| 科研助理{% endif %}
+      {% if g == "Postdoc"                 %}| 博士后{% endif %}
       {% if g == "PhD"                 %}| 博士研究生{% endif %}
       {% if g == "Postgraduate Student"%}| 硕士研究生{% endif %}
+      {% if g == "Research Assistant" %}| 科研助理{% endif %}
     </h2>
 
     <div class="member-grid">
