@@ -26,7 +26,7 @@ author_profile: true
 {% comment %}
   先定义好要分的组（顺序即显示顺序）
 {% endcomment %}
-{% assign groups = "QiyangLiu|Postdoc|PhD|Postgraduate Student" |Research Assistant| split: "|" %}
+{% assign groups = "QiyangLiu|Postdoc|PhD|Postgraduate Student" |"Research Assistant"| split: "|" %}
 
 {% for g in groups %}
   {%- assign members = site.portfolio | where: "group", g -%}
