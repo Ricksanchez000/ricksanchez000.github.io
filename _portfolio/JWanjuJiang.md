@@ -1,6 +1,7 @@
 ---
 title: "江婉菊"
 #excerpt: "2024级硕士生 <br/><img src='/images/江婉菊resize2.jpg'>"
+role: "2024级硕士生"
 image: "/images/江婉菊resize2.jpg" 
 excerpt: "方向：城市交通、社会公平" 
 collection: portfolio
