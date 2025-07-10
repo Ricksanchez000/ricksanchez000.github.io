@@ -1,0 +1,13 @@
+/* ========== 我的卡片样式 ========== */
+.member-card       { max-width:960px; margin:2rem auto; padding:2rem 2.5rem;
+                     background:#2b2f3a; border-radius:1.25rem; display:flex;
+                     gap:2rem; align-items:center; }
+.member-card__avatar { width:140px; height:140px; border-radius:50%;
+                       object-fit:cover; flex-shrink:0; }
+.member-card__name { font-size:1.6rem; font-weight:700; margin:0 0 .4rem 0;
+                     color:#fff; }
+/* ... 其余样式 ... */
+@media (max-width:640px){
+  .member-card{flex-direction:column;text-align:center}
+  .member-card__avatar{margin-bottom:1rem}
+}

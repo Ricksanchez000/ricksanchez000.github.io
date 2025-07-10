@@ -1,0 +1,22 @@
+<!-- _includes/archive-single.html  -->
+{%- assign p = post -%}  <!-- 1) 方便下面少打字 -->
+
+<article class="member-card">
+  {%- if p.image %}
+    <img class="member-card__avatar"
+         src="{{ p.image | relative_url }}"
+         alt="{{ p.title }} 头像">
+  {%- endif %}
+
+  <div class="member-card__info">
+    <h3 class="member-card__name">
+      <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+    </h3>
+
+    {%- if p.role %}
+      <p class="member-card__role">{{ p.role }}</p>
+    {%- endif %}
+
+    {{ p.excerpt | markdownify }}
+  </div>
+</article>
