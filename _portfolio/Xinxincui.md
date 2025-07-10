@@ -8,7 +8,7 @@ collection: portfolio
 ---
 
 
-![Yushun Tang](/images/xinxincui.jpg)
+![Yushun Tang](/images/xinxincui.jpg){: width="300px" height="300px" }
 
 
 邮箱：cuixinxin987@163.com
