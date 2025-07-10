@@ -1,6 +1,9 @@
 ---
 title: "孙乐瑶"
-excerpt: "2024级硕士生 <br/><img src='/images/孙乐瑶resize2.jpg'>"
+#excerpt: "2024级硕士生 <br/><img src='/images/孙乐瑶resize2.jpg'>"
+role:    "2024级硕士生"                   # ① 卡片副标题
+image:   "/images/孙乐瑶resize2.jpg"     # ② 小圆头像
+excerpt: "研究方向：城市空间治理"         # ③ 摘要只保留简短文字
 collection: portfolio
 ---
 

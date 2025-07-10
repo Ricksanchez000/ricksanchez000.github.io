@@ -1,6 +1,9 @@
 ---
 title: "刘启旸"
-excerpt: "北大助理教授/课题组导师 <br/><img src='/images/刘启旸resize2.jpg'>"
+#excerpt: "北大助理教授/课题组导师 <br/><img src='/images/刘启旸resize2.jpg'>"
+role:    "北大助理教授/课题组导师"     # ← ① 卡片副标题
+image:   "/images/刘启旸resize2.jpg"   # ← ② 小圆头像路径
+excerpt: "研究方向：交通公平/正义与交通治理" # ← ③ 仅保留纯文字摘要
 collection: PI
 ---
 

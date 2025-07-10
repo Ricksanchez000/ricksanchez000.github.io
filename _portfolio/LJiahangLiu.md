@@ -1,6 +1,9 @@
 ---
 title: "刘嘉航"
-excerpt: "2024级博士生 <br/><img src='/images/刘嘉航resize2.jpg'>"
+#excerpt: "2024级博士生 <br/><img src='/images/刘嘉航resize2.jpg'>"
+role: "2024级博士生"                 # ① 卡片副标题
+image: "/images/刘嘉航resize2.jpg"   # ② 头像路径，将被模板渲染成圆图
+excerpt: "研究方向：交通公平、交通行为与居民福祉"  # ③ 摘要只留简短文字
 collection: portfolio
 ---
 
