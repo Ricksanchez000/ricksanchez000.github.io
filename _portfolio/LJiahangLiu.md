@@ -9,7 +9,7 @@ collection: portfolio
 ---
 
 
-![JiaHang Liu](/images/刘嘉航resize2.jpg)
+![JiaHang Liu](/images/刘嘉航resize2.jpg){: width="300px" height="300px" }
 
 **刘嘉航：**
 天秤座INFJ、情绪稳定专家、篮球摇滚业余爱好者、非常规选择困难症选手、间歇性懒惰勤奋分裂对抗者等

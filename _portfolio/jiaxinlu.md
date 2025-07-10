@@ -9,7 +9,7 @@ collection: portfolio
 ---
 
 
-![Yushun Tang](/images/jiaxinlu.jpg)
+![Yushun Tang](/images/jiaxinlu.jpg){: width="300px" height="300px" }
 
 陆嘉欣：产自山东、INFJ、双鱼座、业余主持人，容易害羞，经常社恐，喜欢探索心理学。
 

@@ -9,7 +9,7 @@ collection: portfolio
 ---
 
 
-![Yushun Tang](/images/yuyangdu.jpg)
+![Yushun Tang](/images/yuyangdu.jpg){: width="300px" height="300px" }
 
 
 自我介绍：感觉自己EI/SN/TF/JP都沾一半，也还在不断变化中！想要自己努力尝试新鲜事物，找到自己的人生哲学，列了很多待做事项（比如跳伞、骑摩托），毕业后的第一个目标是养两条大狗

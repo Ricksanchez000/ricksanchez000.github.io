@@ -9,7 +9,7 @@ collection: portfolio
 ---
 
 
-![Yushun Tang](/images/xiaoyazhou2.jpg)
+![Yushun Tang](/images/xiaoyazhou2.jpg){: width="300px" height="300px" }
 
 自我介绍： ISFP，高能量的时候运动社交画画，低能量的时候学习阅读玩游戏。运动喜欢户外爬山、游泳和羽毛球，画画喜欢油画棒和城市速写，阅读爱看人类学社会学还有纯文学，游戏爱玩剧情向独立游戏。享受校园生活，希望能做有意义又有趣的研究。
 

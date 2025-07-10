@@ -8,7 +8,7 @@ group:   "Research Assistant"
 collection: portfolio
 ---
 
-![Tao](/images/者韬2.jpg)
+![Tao](/images/者韬2.jpg){: width="300px" height="300px" }
 
 **教育经历：**
 

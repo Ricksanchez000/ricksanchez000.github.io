@@ -9,7 +9,7 @@ collection: portfolio
 ---
 
 
-![Yushun Tang](/images/yuyangdu.jpg)
+![Yushun Tang](/images/yuyangdu.jpg){: width="300px" height="300px" }
 
 
 自我介绍：在超专注和拖延症之间横跳，只能投入到自己感兴趣的事物中，对无聊的东西没耐心；喜欢学外语、读艺术史、听古典乐、摄影P图，宗旨是开心就好；爱自由，但还在尝试弄懂自由是什么。

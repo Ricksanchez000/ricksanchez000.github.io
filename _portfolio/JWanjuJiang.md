@@ -9,7 +9,7 @@ collection: portfolio
 ---
 
 
-![Wanju JIANG](/images/江婉菊.jpg)
+![Wanju JIANG](/images/江婉菊.jpg){: width="300px" height="300px" }
 
 
 **江婉菊**
