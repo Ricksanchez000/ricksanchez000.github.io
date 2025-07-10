@@ -1,6 +1,6 @@
 ---
 title: "者韬"
-excerpt: "科研助理<br/><img src='/images/者韬resize2.png'>"
+excerpt: "科研助理<br/><img src='/images/tao.jpg'>"
 role:    "科研助理"                      # ① 卡片副标题
 image:   "/images/者韬resize2.png"      # ② 小圆头像路径
 excerpt: "研究方向：Causality & LLM Agent"  # ③ 简要文字摘要
