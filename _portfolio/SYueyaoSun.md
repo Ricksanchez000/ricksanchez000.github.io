@@ -9,7 +9,7 @@ collection: portfolio
 ---
 
 
-![Yueyao Sun](/images/孙乐瑶.jpg)
+![Yueyao Sun](/images/孙乐瑶.jpg){: width="300px" height="300px" }
 
 **本科：** 上海大学 城乡规划
 

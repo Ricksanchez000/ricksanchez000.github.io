@@ -9,7 +9,7 @@ collection: portfolio
 ---
 
 
-![Yushun Tang](/images/唐于顺.jpg)
+![Yushun Tang](/images/唐于顺.jpg){: width="300px" height="300px" }
 
 大家好我叫唐于顺，本科来自北京大学城市与环境学院，专业是人文地理与城乡规划。研究兴趣包括交通公平中的性别不平等、交通文化与性别刻板印象等
 

@@ -4,7 +4,7 @@ title: "陆嘉欣"
 role:   "2025级博士研究生"              # ① 卡片副标题——用自定义变量 role
 image:  "/images/jiaxinlu.jpg" # ② 头像路径——模板会渲染成小圆图
 excerpt: "研究方向：大语言模型（LLMs）与交通行为建模、城市时空数据分析与挖掘"  # ③ 简短文字摘要
-group:   "Postgraduate Student" 
+group:   "PhD" 
 collection: portfolio
 ---
 
