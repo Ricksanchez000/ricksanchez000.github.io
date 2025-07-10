@@ -1,5 +1,5 @@
 /* ========= 网格：固定两列，窄屏自动一列 ========= */
-.member-grid {
+body.member-grid {
   max-width: 1200px;
   margin: 0 auto;
   display: grid;
