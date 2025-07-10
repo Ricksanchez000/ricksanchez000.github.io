@@ -10,9 +10,17 @@ collection: portfolio
 
 ![Tao](/images/者韬2.jpg)
 
+**教育经历：**
+
 本科：华东政法大学金融工程
+
 硕士: 格拉斯哥大学应用统计
+
 博士: 堪萨斯大学计算机科学
 
-沉迷数据科学, Causality (Causal Discovery/Inference)和 AI for science应用
-刚搞清楚喜欢的研究细分方向，正在实验挣扎第一篇发表(low hanging fruit~)😵‍💫
+**研究兴趣：**
+
+1. Causality (causal discovery/inference)
+2. LLM Agent
+3. Reinforcement Learning and general data mining
+
