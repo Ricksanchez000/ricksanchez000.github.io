@@ -32,5 +32,8 @@
 
 /* ========= 文本块 ========= */
 .member-card__info  { text-align: left; }
-.member-card__name  { font-size: 1.4rem; font-weight: 700; margin: 0;   color: #fff; }
-.member-card__role  { font-weight: 600; margin: .25rem 0 .75rem; }
+/*.member-card__name  { font-size: 1.4rem; font-weight: 700; margin: 0;   color: #fff; }*/
+.member-card__name  {
+  font-size: 1.4rem; font-weight: 700; margin: 0;   color: #1f2937; /* 深灰文字 */
+}
+.member-card__role  { font-weight: 600; margin: .25rem 0 .75rem;color: #4b5563; }
