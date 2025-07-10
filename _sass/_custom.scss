@@ -1,7 +1,13 @@
-/* ========== 我的卡片样式 ========== */
-.member-card       { max-width:960px; margin:2rem auto; padding:2rem 2.5rem;
-                     background:#2b2f3a; border-radius:1.25rem; display:flex;
-                     gap:2rem; align-items:center; }
+/* ===== 卡片：左图右文 ===== */
+.member-card {
+  background: #2b2f3a;
+  border-radius: 1.25rem;
+  padding: 1.8rem 2rem;
+  display: flex;
+  align-items: center;           /* 垂直居中对齐 */
+  gap: 1.6rem;                   /* 图文间距 */
+}
+
 .member-card__avatar { width:140px; height:140px; border-radius:50%;
                        object-fit:cover; flex-shrink:0; }
 .member-card__name { font-size:1.6rem; font-weight:700; margin:0 0 .4rem 0;
