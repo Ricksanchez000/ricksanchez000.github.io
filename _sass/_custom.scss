@@ -1,5 +1,5 @@
 /* ========= 网格：固定两列，窄屏自动一列 ========= */
-body.member-grid {
+member-grid {
   max-width: 1200px;
   margin: 0 auto;
   display: grid;
@@ -11,7 +11,7 @@ body.member-grid {
 }
 
 /* ========= 卡片：左图右文 ========= */
-.member-card {
+body.member-card {
   /*background: #2b2f3a;*/
   background: #f3f4f6;
   border-radius: 1.25rem;
