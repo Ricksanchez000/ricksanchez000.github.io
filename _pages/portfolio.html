@@ -14,15 +14,15 @@ author_profile: true
 {% endcomment %}
 
 
-{% comment %}
+
 <div class="member-grid">
 {% for post in site.portfolio %}
    {% include archive-single-member.html %}
 {% endfor %}
 </div>
-+{% endcomment %}
 
 
+{% comment %}
 {% comment %}
   先定义好要分的组（顺序即显示顺序）
 {% endcomment %}
@@ -47,3 +47,4 @@ author_profile: true
     </div>
   {% endif %}
 {% endfor %}
++{% endcomment %}
