@@ -1,38 +1,23 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Qiyang Liu! Assistant Professor of Peking University"
+title: "👋🏼 你好，我是刘启旸！北京大学助理教授"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-
+<a href="/en/" style="float: right; font-size: 0.9em;">🌐 English</a>
 
 ![Illustration of transportation](/images/ttransportation_bot.png){: .align-right width="300px"}
 👨🏻‍💻 我是北京大学深圳研究生院城市规划与设计学院的助理教授
 
-
-**🔬 我的研究兴趣主要是(Research Interests)：**
+**🔬 我的研究兴趣主要是：**
 
 1. 交通公平与交通相关社会排斥
-   
-   (Transport equity and transport-related social exclusion)
-
 2. 交通治理与政策制定
-
-   (Transport governance and policy-making)
-
 3. 交通文化与心理
-
-   (Transport culture and psychology)   
-
 4. 新出行服务和非正式交通
 
-   (New mobility services and informal transport)
-   
-
-**📋 课题组招收优秀的硕士生和博士后，感兴趣的同学欢迎联系进一步探讨，详细信息请查看招聘栏相关信息。**
-
-/To learn more about opportunities for postdoctoral researchers, research assistants, and graduate students, please refer to the Recruitment Section.
+**📋 课题组招收优秀的硕士生和博士后，感兴趣的同学欢迎联系进一步探讨，详细信息请查看[招聘栏](/recruitment/)相关信息。**
 
