@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<a href="/en/" style="float: left; font-size: 0.9em;">🌐 English</a>
-
 ![Illustration of transportation](/images/ttransportation_bot.png){: .align-left width="300px"}
 👨🏻‍💻 我是北京大学深圳研究生院城市规划与设计学院的助理教授
 
