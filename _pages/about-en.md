@@ -1,21 +1,24 @@
 ---
 layout: archive
 permalink: /en/
-title: "👋🏼 Hello there, I'm Qiyang Liu! Assistant Professor of Peking University"
+title: "Hello, I'm Qiyang Liu"
 author_profile: true
 ---
 
-![Illustration of transportation](/images/ttransportation_bot.png){: .align-right width="300px"}
-👨🏻‍💻 I am an Assistant Professor at the School of Urban Planning and Design, Peking University Shenzhen Graduate School.
+I am an Assistant Professor and Doctoral Supervisor at the School of Urban Planning and Design, Peking University Shenzhen Graduate School. I received my PhD from the Institute for Transport Studies, University of Leeds in 2019.
 
-**🔬 Research Interests:**
+My research centres on **transport equity/justice** and **transport governance**, with a focus on distinctive transport equity issues in China and underrepresented communities.
+
+**Research Interests:**
 
 1. Transport equity and transport-related social exclusion
 2. Transport governance and policy-making
 3. Transport culture and psychology
 4. New mobility services and informal transport
 
-**📋 We are recruiting outstanding graduate students and postdoctoral researchers. If you are interested, please feel free to reach out. For details, please refer to the [Recruitment](/recruitment/) section.**
+I have published one English monograph (translated into German and Spanish) and over 30 SCI/SSCI papers in journals including *PNAS*, *Nature Communications*, *Transport Policy*, *Journal of Transport Geography*, and the *Transportation Research* series. I serve as a reviewer for 25 journals including *Nature Cities*, *Nature Communications*, *Transport Policy*, and *Journal of Transport Geography*.
+
+**We are recruiting outstanding graduate students and postdoctoral researchers. For details, please refer to the [Recruitment](/recruitment/) section.**
 
 ---
 
