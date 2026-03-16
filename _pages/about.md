@@ -12,7 +12,7 @@ redirect_from:
 
 研究方向主要围绕**交通公平/正义**和**交通治理**，关注中国特殊的交通公平问题和以往少有人关注的群体。
 
-**研究兴趣：**
+**🔬 研究兴趣：**
 
 1. 交通公平与交通相关社会排斥
 2. 交通治理与政策制定
@@ -21,7 +21,7 @@ redirect_from:
 
 目前出版英文专著一本（已译为德语、西班牙语），在 *PNAS*、*Nature Communications*、*Transport Policy*、*Journal of Transport Geography*、*Transportation Research* 系列等期刊发表 SCI/SSCI 论文 30 余篇。担任 *Nature Cities*、*Nature Communications*、*Transport Policy*、*Journal of Transport Geography* 等 25 本期刊审稿人。
 
-**课题组招收优秀的硕士生和博士后，感兴趣的同学欢迎联系进一步探讨，详细信息请查看[招聘栏](/recruitment/)。**
+**📋 课题组招收优秀的硕士生和博士后，感兴趣的同学欢迎联系进一步探讨，详细信息请查看[招聘栏](/recruitment/)。**
 
 ---
 
