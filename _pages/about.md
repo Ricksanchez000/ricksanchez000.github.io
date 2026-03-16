@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "👋🏼 你好，我是刘启旸！北京大学助理教授"
 author_profile: true

@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /en/
 title: "👋🏼 Hello there, I'm Qiyang Liu! Assistant Professor of Peking University"
 author_profile: true
