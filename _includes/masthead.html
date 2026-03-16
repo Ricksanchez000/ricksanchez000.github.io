@@ -21,3 +21,19 @@
     </div>
   </div>
 </div>
+<script>
+(function() {
+  var links = document.querySelectorAll('.greedy-nav a');
+  for (var i = 0; i < links.length; i++) {
+    if (links[i].href.indexOf('/en/') !== -1 && links[i].textContent.indexOf('EN') !== -1) {
+      if (window.location.pathname.indexOf('/en/') !== -1) {
+        links[i].href = '/';
+        links[i].textContent = '🌐 中文';
+      } else {
+        links[i].textContent = '🌐 English';
+      }
+      break;
+    }
+  }
+})();
+</script>

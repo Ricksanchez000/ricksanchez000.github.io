@@ -4,7 +4,7 @@ title: "👋🏼 Hello there, I'm Qiyang Liu! Assistant Professor of Peking Univ
 author_profile: true
 ---
 
-![Illustration of transportation](/images/ttransportation_bot.png){: .align-left width="300px"}
+![Illustration of transportation](/images/ttransportation_bot.png){: .align-right width="300px"}
 👨🏻‍💻 I am an Assistant Professor at the School of Urban Planning and Design, Peking University Shenzhen Graduate School.
 
 **🔬 Research Interests:**

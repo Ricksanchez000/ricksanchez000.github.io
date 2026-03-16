@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of transportation](/images/ttransportation_bot.png){: .align-left width="300px"}
+![Illustration of transportation](/images/ttransportation_bot.png){: .align-right width="300px"}
 👨🏻‍💻 我是北京大学深圳研究生院城市规划与设计学院的助理教授
 
 **🔬 我的研究兴趣主要是：**

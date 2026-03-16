@@ -26,5 +26,6 @@ main:
 
   - title: "🌐 EN/中"
     url: /en/
+    class: lang-switch
 
   
