@@ -5,6 +5,7 @@ title: "Hello, I'm Qiyang Liu"
 author_profile: true
 ---
 
+![Illustration of transportation](/images/ttransportation_bot.png){: .align-right width="300px"}
 I am an Assistant Professor and Doctoral Supervisor at the School of Urban Planning and Design, Peking University Shenzhen Graduate School. I received my PhD from the Institute for Transport Studies, University of Leeds in 2019.
 
 My research centres on **transport equity/justice** and **transport governance**, with a focus on distinctive transport equity issues in China and underrepresented communities.

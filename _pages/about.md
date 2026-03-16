@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+![Illustration of transportation](/images/ttransportation_bot.png){: .align-right width="300px"}
 我是北京大学深圳研究生院城市规划与设计学院的助理教授、博士生导师。2019年在英国利兹大学交通研究所获得博士学位。
 
 研究方向主要围绕**交通公平/正义**和**交通治理**，关注中国特殊的交通公平问题和以往少有人关注的群体。
