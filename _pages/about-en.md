@@ -44,11 +44,12 @@ I have published one English monograph (translated into German and Spanish) and 
 }
 .pub-card-text h4 {
   margin-top: 0;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
+  font-size: 1.15em;
 }
 .pub-card-text p {
-  margin: 4px 0;
-  font-size: 0.95em;
+  margin: 5px 0;
+  font-size: 1.05em;
 }
 </style>
 
