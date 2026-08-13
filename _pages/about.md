@@ -2,6 +2,8 @@
 layout: archive
 permalink: /
 title: "你好，我是刘启旸"
+lang: zh-CN
+alternate_url: /en/
 author_profile: true
 redirect_from:
   - /about/
@@ -24,22 +26,7 @@ redirect_from:
 
 **📋 课题组招收优秀的硕士生和博士后，感兴趣的同学欢迎联系进一步探讨，详细信息请查看[招聘栏](/recruitment/)。**
 
----
-
-## 最新动态 | News
-
-<ul class="news-list">
-{% for item in site.data.news limit: 10 %}
-  <li class="news-item">
-    <time class="news-item__date" datetime="{{ item.date }}">{{ item.date }}</time>
-    <span class="news-item__text">
-      论文{% if item.url %}<a href="{{ item.url }}">《{{ item.title }}》</a>{% else %}《{{ item.title }}》{% endif %}发表于 <em>{{ item.venue }}</em>。
-    </span>
-  </li>
-{% endfor %}
-</ul>
-
----
+{% include home-news.html %}
 
 ## 代表性成果 | Selected Publications
 

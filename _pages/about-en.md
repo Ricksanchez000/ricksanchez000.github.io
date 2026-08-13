@@ -2,6 +2,8 @@
 layout: archive
 permalink: /en/
 title: "Hello, I'm Qiyang Liu"
+lang: en
+alternate_url: /
 author_profile: true
 ---
 
@@ -21,7 +23,7 @@ I have published one English monograph (translated into German and Spanish) and 
 
 **📋 We are recruiting outstanding graduate students and postdoctoral researchers. For details, please refer to the [Recruitment](/recruitment/) section.**
 
----
+{% include home-news.html %}
 
 ## Selected Publications
 

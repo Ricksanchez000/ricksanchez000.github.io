@@ -1,19 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-  var isEn = window.location.pathname.indexOf('/en/') !== -1;
-
-  // Switch nav language toggle
-  var links = document.querySelectorAll('.greedy-nav a');
-  for (var i = 0; i < links.length; i++) {
-    if (links[i].href.indexOf('/en/') !== -1 && links[i].textContent.indexOf('EN') !== -1) {
-      if (isEn) {
-        links[i].href = '/';
-        links[i].textContent = '\uD83C\uDF10 中文';
-      } else {
-        links[i].textContent = '\uD83C\uDF10 English';
-      }
-      break;
-    }
-  }
+  var isEn = document.documentElement.lang.toLowerCase().indexOf('en') === 0;
 
   // Switch sidebar author profile for English pages
   if (isEn) {

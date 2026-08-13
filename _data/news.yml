@@ -1,40 +1,40 @@
 # Keep this list newest-first. The homepage renders at most the first 10 items.
-- date: "2026"
-  title: "Every step I take: How diverse travel purposes shape social exclusion"
-  venue: "Transportation Research Part A: Policy and Practice"
-
-- date: "2026"
-  title: "'We are the cavalry, on the way to the rescue': Mobility-masculinity nexus among Chinese urban delivery workers during early COVID-19 lockdowns"
-  venue: "Mobilities"
-
-- date: "2026"
-  title: "Running with the shadows of the night: Transport justice issues faced by sex workers"
-  venue: "Journal of Transport Geography"
-
-- date: "2026"
+- date: "2026-09"
   title: "Whose Streets? Our Streets!: Contesting space and embodying risk in Shenzhen's e-scooter governance"
   venue: "Transport Policy"
 
-- date: "2026"
-  title: "Drowning in Delays: Integrated hydrological-accessibility framework for flood-resilient EMS and transport equality"
-  venue: "Applied Spatial Analysis and Policy"
-
-- date: "2026"
-  title: "Perception is reality: How individuals' perceived transport equity shapes social exclusion in Chinese cities"
-  venue: "Journal of Transport Geography"
-
-- date: "2026"
-  title: "Agglomeration under strain: Nonlinear dynamics of urban functional conflicts"
-  venue: "Sustainable Cities and Society"
-
-- date: "2026"
+- date: "2026-07"
   title: "Crossing the river by feeling the stones: Sub-national agency in China's highway maintenance marketisation"
   venue: "Journal of Urban Management"
 
-- date: "2026"
+- date: "2026-07"
   title: "Environmental injustice and transition pathways of heavy-duty truck transport in China"
   venue: "Communications Earth & Environment"
 
-- date: "2026"
+- date: "2026-07"
   title: "Run to the hills: Car ownership as a shield against ageing anxiety in China"
   venue: "Journal of Urban Mobility"
+
+- date: "2026-06"
+  title: "Agglomeration under strain: Nonlinear dynamics of urban functional conflicts"
+  venue: "Sustainable Cities and Society"
+
+- date: "2026-06"
+  title: "Perception is reality: How individuals' perceived transport equity shapes social exclusion in Chinese cities"
+  venue: "Journal of Transport Geography"
+
+- date: "2026-04"
+  title: "Drowning in Delays: Integrated hydrological-accessibility framework for flood-resilient EMS and transport equality"
+  venue: "Applied Spatial Analysis and Policy"
+
+- date: "2026-03"
+  title: "Every step I take: How diverse travel purposes shape social exclusion"
+  venue: "Transportation Research Part A: Policy and Practice"
+
+- date: "2026-01"
+  title: "'We are the cavalry, on the way to the rescue': Mobility-masculinity nexus among Chinese urban delivery workers during early COVID-19 lockdowns"
+  venue: "Mobilities"
+
+- date: "2026-01"
+  title: "Running with the shadows of the night: Transport justice issues faced by sex workers"
+  venue: "Journal of Transport Geography"

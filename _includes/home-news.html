@@ -1,0 +1,33 @@
+{% assign news_lang = page.lang | default: "zh-CN" %}
+{% assign news_months_en = "Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec" | split: "|" %}
+
+<section class="home-news" aria-labelledby="home-news-title">
+  {% if news_lang contains "en" %}
+    <h2 id="home-news-title">News</h2>
+  {% else %}
+    <h2 id="home-news-title">最新动态</h2>
+  {% endif %}
+
+  <ul class="news-list">
+  {% for item in site.data.news limit: 10 %}
+    {% assign news_date_parts = item.date | split: "-" %}
+    {% assign news_month_index = news_date_parts[1] | plus: 0 | minus: 1 %}
+    <li class="news-item">
+      <time class="news-item__date" datetime="{{ item.date }}">
+        {% if news_lang contains "en" %}
+          <strong>{{ news_months_en[news_month_index] }} {{ news_date_parts[0] }}:</strong>
+        {% else %}
+          <strong>{{ news_date_parts[0] }}年{{ news_date_parts[1] | plus: 0 }}月：</strong>
+        {% endif %}
+      </time>
+      <span class="news-item__text">
+        {% if news_lang contains "en" %}
+          {% if item.url %}<a href="{{ item.url }}">“{{ item.title }}”</a>{% else %}“{{ item.title }}”{% endif %} was published in <em>{{ item.venue }}</em>.
+        {% else %}
+          论文{% if item.url %}<a href="{{ item.url }}">《{{ item.title }}》</a>{% else %}《{{ item.title }}》{% endif %}发表于 <em>{{ item.venue }}</em>。
+        {% endif %}
+      </span>
+    </li>
+  {% endfor %}
+  </ul>
+</section>

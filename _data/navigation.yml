@@ -1,28 +1,25 @@
-# main links links
+# Main navigation. Shared URLs use localized labels in the masthead.
 main:
-  #- title: "课题介绍|xxx"
-  #  url: /publications/
-  
-  - title: "Publications"
+  - title_zh: "论文成果"
+    title_en: "Publications"
     url: /cv/
 
-  - title: "Policy Citations"
-    url: /talks/ 
+  - title_zh: "政策引用"
+    title_en: "Policy Citations"
+    url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "People"
+  - title_zh: "教学"
+    title_en: "Teaching"
+    url: /teaching/
+
+  - title_zh: "团队成员"
+    title_en: "People"
     url: /portfolio/
-        
-  - title: "Funding"
+
+  - title_zh: "科研项目"
+    title_en: "Funding"
     url: /markdown/
-    
-  - title: "Recruitment"
+
+  - title_zh: "招聘"
+    title_en: "Recruitment"
     url: /recruitment/
-
-  - title: "🌐 EN/中"
-    url: /en/
-    class: lang-switch
-
-  

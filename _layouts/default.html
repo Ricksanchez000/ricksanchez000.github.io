@@ -3,9 +3,10 @@ layout: compress
 ---
 
 {% include base_path %}
+{% assign document_lang = page.lang | default: "zh-CN" %}
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="{{ document_lang }}" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
