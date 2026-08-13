@@ -58,7 +58,7 @@ I have published one English monograph (translated into German and Spanish) and 
   <img src="/images/paper_images/Every_step_I_take.png" alt="Every step I take">
   <div class="pub-card-text">
     <h4>Every step I take: How diverse travel purposes shape social exclusion</h4>
-    <p>Liu, Q., Liu, J., & Jiang, S.</p>
+    <p><strong>Liu, Q.</strong>, Liu, J., & Jiang, S.</p>
     <p><em>Transportation Research Part A: Policy and Practice</em>, 205, 104897, 2026</p>
   </div>
 </div>
@@ -67,7 +67,7 @@ I have published one English monograph (translated into German and Spanish) and 
   <img src="/images/paper_images/ICT.png" alt="ICT usage">
   <div class="pub-card-text">
     <h4>ICT usage increases workforce geographical diversity</h4>
-    <p>Zhao, P., Wang, H., Clark, W. A., Feng, Y., Liu, Q., & Cui, Y.</p>
+    <p>Zhao, P., Wang, H., Clark, W. A., Feng, Y., <strong>Liu, Q.</strong>, & Cui, Y.</p>
     <p><em>Proceedings of the National Academy of Sciences</em>, 122(20), e2426901122, 2025</p>
   </div>
 </div>
@@ -76,7 +76,7 @@ I have published one English monograph (translated into German and Spanish) and 
   <img src="/images/paper_images/unravelling_the_spatial.png" alt="Unravelling the spatial directionality">
   <div class="pub-card-text">
     <h4>Unravelling the spatial directionality of urban mobility</h4>
-    <p>Zhao, P., Wang, H., Liu, Q., Yan, X. Y., & Li, J.</p>
+    <p>Zhao, P., Wang, H., <strong>Liu, Q.</strong>, Yan, X. Y., & Li, J.</p>
     <p><em>Nature Communications</em>, 15(1), 4507, 2024</p>
   </div>
 </div>
