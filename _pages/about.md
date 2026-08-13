@@ -26,6 +26,21 @@ redirect_from:
 
 ---
 
+## 最新动态 | News
+
+<ul class="news-list">
+{% for item in site.data.news limit: 10 %}
+  <li class="news-item">
+    <time class="news-item__date" datetime="{{ item.date }}">{{ item.date }}</time>
+    <span class="news-item__text">
+      论文{% if item.url %}<a href="{{ item.url }}">《{{ item.title }}》</a>{% else %}《{{ item.title }}》{% endif %}发表于 <em>{{ item.venue }}</em>。
+    </span>
+  </li>
+{% endfor %}
+</ul>
+
+---
+
 ## 代表性成果 | Selected Publications
 
 <style>
@@ -83,4 +98,3 @@ redirect_from:
     <p><em>Nature Communications</em>, 15(1), 4507, 2024</p>
   </div>
 </div>
-

@@ -15,9 +15,6 @@ main:
   - title: "People"
     url: /portfolio/
         
-  - title: "Blog Post"
-    url: /year-archive/
-    
   - title: "Funding"
     url: /markdown/
     

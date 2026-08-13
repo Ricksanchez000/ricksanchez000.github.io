@@ -37,3 +37,52 @@
   font-size: 1.4rem; font-weight: 700; margin: 0;   color: #1f2937; /* 深灰文字 */
 }
 .member-card__role  { font-weight: 600; margin: .25rem 0 .75rem;color: #4b5563; }
+
+/* ========= News / 最新动态 ========= */
+.news-list {
+  margin: 0 0 2rem;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid #e5e7eb;
+}
+
+.news-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: .7rem .2rem;
+  border-bottom: 1px solid #e5e7eb;
+  line-height: 1.55;
+}
+
+.news-item::before {
+  content: "";
+  flex: 0 0 .38rem;
+  width: .38rem;
+  height: .38rem;
+  margin-top: .55rem;
+  border-radius: 50%;
+  background: #6b7280;
+}
+
+.news-item__date {
+  flex: 0 0 6.5rem;
+  color: #6b7280;
+  font-variant-numeric: tabular-nums;  /* 数字等宽，日期列才对得齐 */
+  white-space: nowrap;
+}
+
+.news-item__text { flex: 1; }
+
+/* 窄屏改为上下堆叠，避免日期列挤压正文 */
+@media (max-width: 600px) {
+  .news-item {
+    display: grid;
+    grid-template-columns: .38rem 1fr;
+    column-gap: .6rem;
+    row-gap: .15rem;
+  }
+  .news-item::before { grid-row: 1 / span 2; margin-top: .55rem; }
+  .news-item__date { grid-column: 2; font-size: .9em; }
+  .news-item__text { grid-column: 2; }
+}

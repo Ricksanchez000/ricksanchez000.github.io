@@ -1,0 +1,48 @@
+# Keep this list newest-first. The homepage renders at most the first 10 items.
+- date: "2026"
+  title: "Every step I take: How diverse travel purposes shape social exclusion"
+  venue: "Transportation Research Part A: Policy and Practice"
+
+- date: "2025"
+  title: "ICT usage increases workforce geographical diversity"
+  venue: "Proceedings of the National Academy of Sciences"
+
+- date: "2024-07"
+  title: "The dilemmas of transport equity research in non-Western contexts"
+  venue: "Transportation Research Interdisciplinary Perspectives"
+  url: "https://www.sciencedirect.com/science/article/pii/S259019822400143X"
+
+- date: "2024-06"
+  title: "Reconceptualising transport-related social exclusion in rural China"
+  venue: "Journal of Transport Geography"
+  url: "https://www.sciencedirect.com/science/article/pii/S0966692324001388"
+
+- date: "2024-05-27"
+  title: "Unravelling the spatial directionality of urban mobility"
+  venue: "Nature Communications"
+  url: "https://www.nature.com/articles/s41467-024-48909-7"
+
+- date: "2024-04"
+  title: "The living environment and intravillage activity-travel: A conceptual framework based on participant observation in Guangdong, China"
+  venue: "Journal of Rural Studies"
+  url: "https://www.sciencedirect.com/science/article/pii/S0743016723000554"
+
+- date: "2023-12"
+  title: "Villagers' travel burden and the built environment in rural China: Evidence from a national level survey"
+  venue: "Journal of Transport Geography"
+  url: "https://www.sciencedirect.com/science/article/pii/S0966692323001898"
+
+- date: "2023-10-10"
+  title: "Policy instruments facilitate China’s COVID-19 work resumption"
+  venue: "Proceedings of the National Academy of Sciences"
+  url: "https://www.pnas.org/doi/abs/10.1073/pnas.2305692120"
+
+- date: "2023-10"
+  title: "Exploring the spatial characteristics of the human mobility network in rural settings of China's Greater Bay Area"
+  venue: "Journal of Transport Geography"
+  url: "https://www.sciencedirect.com/science/article/pii/S0966692323001710"
+
+- date: "2023-09"
+  title: "No street is an Island: Street network morphologies and traffic safety"
+  venue: "Transport Policy"
+  url: "https://www.sciencedirect.com/science/article/pii/S0967070X23002032"
