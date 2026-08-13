@@ -10,7 +10,8 @@ main:
 
   - title_zh: "教学"
     title_en: "Teaching"
-    url: /teaching/
+    url_en: /teaching/
+    url_zh: /zh/teaching/
 
   - title_zh: "团队成员"
     title_en: "People"
@@ -18,8 +19,10 @@ main:
 
   - title_zh: "科研项目"
     title_en: "Funding"
-    url: /markdown/
+    url_en: /funding/
+    url_zh: /zh/funding/
 
   - title_zh: "招聘"
     title_en: "Recruitment"
-    url: /recruitment/
+    url_en: /recruitment/
+    url_zh: /zh/recruitment/

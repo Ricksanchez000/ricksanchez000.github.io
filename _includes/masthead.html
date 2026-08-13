@@ -18,15 +18,17 @@
           {% for link in site.data.navigation.main %}
             {% if is_english_page %}
               {% assign link_title = link.title_en | default: link.title %}
+              {% assign link_url = link.url_en | default: link.url %}
             {% else %}
               {% assign link_title = link.title_zh | default: link.title %}
+              {% assign link_url = link.url_zh | default: link.url %}
             {% endif %}
-            {% if link.url contains 'http' %}
+            {% if link_url contains 'http' %}
               {% assign domain = '' %}
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link_title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link_url }}">{{ link_title }}</a></li>
           {% endfor %}
           {% if page.alternate_url %}
             {% assign switch_url = page.alternate_url %}

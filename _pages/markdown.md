@@ -1,53 +1,36 @@
 ---
-permalink: /markdown/
-title: "Funding"
+permalink: /zh/funding/
+title: "科研项目"
+lang: zh-CN
+alternate_url: /funding/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
+## 代表性科研项目
 
-## 科研项目：
+### 面向社会公正的深圳智慧交通治理策略研究
 
-
-**2024-07-19  面向社会公正的深圳智慧交通治理策略研究，在研**
-
-- 资助方：深圳市社会科学联合会
-- 项目类型：深圳市哲学社科项目.一般课题
-- 金额：18万元
+- **获批时间：** 2024 年 7 月
+- **资助机构：** 深圳市社会科学联合会
+- **项目类别：** 深圳市哲学社会科学规划项目（一般课题）
+- **资助金额：** 18 万元
 
 ---
 
-**2024-01-01  基于大数据-厚数据结合的交通公平研究:以广东省为例，在研**
+### 基于大数据-厚数据结合的交通公平研究：以广东省为例
 
-- 资助方：广东省基础与应用基础研究基金委员会
-- 项目类型：广东省自然科学基金项目-面上项目
-- 金额：15万元
-
----
-
-**2023-08-24  港澳大湾区海陆通道发展对社会经济的影响研究, 在研**
-
-- 资助方：国家自然科学基金委员会
-- 项目类型：国家自然科学基金-青年科学基金项目
-- 金额：30万元
+- **开始时间：** 2024 年 1 月
+- **项目状态：** 在研
+- **资助机构：** 广东省基础与应用基础研究基金委员会
+- **项目类别：** 广东省自然科学基金面上项目
+- **资助金额：** 15 万元
 
 ---
 
-以及其他参与，主持并结题的项目等。
+### 粤港澳大湾区海陆通道发展对社会经济的影响研究
 
-
----
-
-
-## Scientific research projects
-
-*July 19, 2024 - Research on Shenzhen's Smart Transportation Governance Strategies Aimed at Social Justice, Ongoing. Funds-180,000 CNY.*
-
-*January 1, 2024 - Research on Transportation Equity Based on the Combination of Big Data and Thick Data: A Case Study of Guangdong Province, Ongoing. Funds-150,000 CNY.*
-
-*August 24, 2023 - Research on the Socioeconomic Impact of the Development of Sea-Land Channels in the Hong Kong-Macao Greater Bay Area, Ongoing. Funds-300,000 CNY.*
-
-as well as other projects participated in, led, and completed.
-
+- **获批时间：** 2023 年 8 月
+- **项目状态：** 在研
+- **资助机构：** 国家自然科学基金委员会
+- **项目类别：** 国家自然科学基金青年科学基金项目
+- **资助金额：** 30 万元
