@@ -1,11 +1,11 @@
 {% include base_path %}
-{% assign current_lang = page.lang | default: "zh-CN" %}
+{% assign current_lang = page.lang | default: site.locale %}
 {% if current_lang contains "en" %}
   {% assign is_english_page = true %}
-  {% assign home_url = "/en/" %}
+  {% assign home_url = "/" %}
 {% else %}
   {% assign is_english_page = false %}
-  {% assign home_url = "/" %}
+  {% assign home_url = "/zh/" %}
 {% endif %}
 
 <div class="masthead">
@@ -31,9 +31,9 @@
           {% if page.alternate_url %}
             {% assign switch_url = page.alternate_url %}
           {% elsif is_english_page %}
-            {% assign switch_url = "/" %}
+            {% assign switch_url = "/zh/" %}
           {% else %}
-            {% assign switch_url = "/en/" %}
+            {% assign switch_url = "/" %}
           {% endif %}
           {% if is_english_page %}
             <li class="masthead__menu-item lang-switch"><a href="{{ switch_url | relative_url }}" hreflang="zh-CN">🌐 中文</a></li>

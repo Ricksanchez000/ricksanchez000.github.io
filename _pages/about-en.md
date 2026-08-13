@@ -1,10 +1,12 @@
 ---
 layout: archive
-permalink: /en/
+permalink: /
 title: "Hello, I'm Qiyang Liu"
 lang: en
-alternate_url: /
+alternate_url: /zh/
 author_profile: true
+redirect_from:
+  - /en/
 ---
 
 ![Illustration of transportation](/images/ttransportation_bot.png){: .align-right width="300px"}

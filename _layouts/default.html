@@ -3,7 +3,7 @@ layout: compress
 ---
 
 {% include base_path %}
-{% assign document_lang = page.lang | default: "zh-CN" %}
+{% assign document_lang = page.lang | default: site.locale %}
 
 <!doctype html>
 <html lang="{{ document_lang }}" class="no-js">

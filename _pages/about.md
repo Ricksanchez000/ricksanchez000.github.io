@@ -1,9 +1,9 @@
 ---
 layout: archive
-permalink: /
+permalink: /zh/
 title: "你好，我是刘启旸"
 lang: zh-CN
-alternate_url: /en/
+alternate_url: /
 author_profile: true
 redirect_from:
   - /about/
