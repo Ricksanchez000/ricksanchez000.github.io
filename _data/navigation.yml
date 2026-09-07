@@ -15,7 +15,8 @@ main:
 
   - title_zh: "团队成员"
     title_en: "People"
-    url: /portfolio/
+    url_en: /portfolio/
+    url_zh: /zh/portfolio/
 
   - title_zh: "科研项目"
     title_en: "Funding"

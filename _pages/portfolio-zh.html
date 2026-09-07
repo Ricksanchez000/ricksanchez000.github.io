@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "团队成员"
+permalink: /zh/portfolio/
+lang: zh-CN
+alternate_url: /portfolio/
+author_profile: true
+---
+
+{% include base_path %}
+
+<div class="member-grid">
+{% for post in site.portfolio %}
+  {% include archive-single-member.html %}
+{% endfor %}
+</div>
