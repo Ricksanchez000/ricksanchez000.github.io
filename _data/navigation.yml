@@ -2,7 +2,8 @@
 main:
   - title_zh: "论文成果"
     title_en: "Publications"
-    url: /cv/
+    url_en: /cv/
+    url_zh: /zh/cv/
 
   - title_zh: "政策引用"
     title_en: "Policy Citations"
